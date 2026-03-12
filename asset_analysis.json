@@ -1,0 +1,1 @@
+{"belongs":false,"confidence":0.35,"reason":"域名prod.caimomo.com是已声明资产caimomo.com的子域名，但TLS证书组织信息显示为'无锡钱到到网络科技服务有限公司'而非美团，存在明显不一致。虽然证书覆盖该域名，但证书主体信息不支持该资产属于美团。建议进一步核实caimomo.com与美团的关系以及证书组织信息的准确性。"}
