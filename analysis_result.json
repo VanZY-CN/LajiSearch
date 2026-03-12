@@ -1,0 +1,1 @@
+{"belongs":false,"confidence":0.35,"reason":"域名admin.caimomo.com虽为caimomo.com子域名，但TLS证书组织为'无锡钱到到网络科技服务有限公司'而非美团，存在明显不一致。证书域名匹配仅说明技术配置正确，不能证明资产归属。建议进一步核实该域名与美团的关联关系。"}
