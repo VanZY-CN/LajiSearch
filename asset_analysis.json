@@ -1,0 +1,5 @@
+{
+  "belongs": false,
+  "confidence": 0.75,
+  "reason": "域名admin.caimomo.com是已声明资产caimomo.com的子域名，且TLS证书CN和SAN匹配该域名，但证书组织(O)为'无锡钱到到网络科技服务有限公司'而非美团，存在明显不一致。IP归属信息无法直接证明组织归属。综合判断该资产可能不属于美团，或存在第三方托管/代理情况。"
+}
